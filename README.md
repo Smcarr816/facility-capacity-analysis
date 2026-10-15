@@ -7,7 +7,7 @@
 ## Executive Summary
 This project analyzes 218 active days of client attendance data (2,835 total client visits) from November 2025 through June 2026 to evaluate facility utilization, optimize staff scheduling, and identify operational data collection gaps.
 
-![Average Daily Client Attendance](attendance_by_day.png)
+![Average Daily Client Attendance](chart.png)
 
 ---
 
