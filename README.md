@@ -84,6 +84,10 @@ To evaluate operational downside risk, a stress test was conducted modeling a **
 - **Labor Overhead Spike:** Department labor ratio spikes to **53.8%**, pushing Thursday labor costs to **77.5% of daily revenue**.
 - **Strategic Takeaway:** Proves the necessity of dynamic, attendance-driven scheduling over rigid shift structures during seasonal or demand-driven downturns.
 
-<img width="605" height="381" alt="SUM of SUM of Total Attendance vs  Month" src="https://github.com/user-attachments/assets/fd8178b7-aea2-4e62-a373-9e6d35d3387c" />
-[Avg Attendance vs. Day Of Week.pdf](https://github.com/user-attachments/files/33617085/Avg.Attendance.vs.Day.Of.Week.pdf)
-[chart.pdf](https://github.com/user-attachments/files/33617084/chart.pdf)
+<img width="605" height="371" alt="chart (1)" src="https://github.com/user-attachments/assets/b2a9304f-7daa-4ea2-9f93-78a5a7dec5ad" />
+
+<img width="605" height="371" alt="Avg Attendance vs  Day Of Week" src="https://github.com/user-attachments/assets/1e9b773c-7a12-4e16-838c-347db902a62b" />
+
+<img width="605" height="381" alt="SUM of SUM of Total Attendance vs  Month" src="https://github.com/user-attachments/assets/63f1e3cf-edb1-4bac-9348-2121e8142ff0" />
+
+
