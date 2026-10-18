@@ -83,3 +83,7 @@ To evaluate operational downside risk, a stress test was conducted modeling a **
 - **Bottom-Line Impact:** Fixed labor ($2,453/wk) causes net profit to collapse by **52.0%** (from $4,380.47 to $2,102.65).
 - **Labor Overhead Spike:** Department labor ratio spikes to **53.8%**, pushing Thursday labor costs to **77.5% of daily revenue**.
 - **Strategic Takeaway:** Proves the necessity of dynamic, attendance-driven scheduling over rigid shift structures during seasonal or demand-driven downturns.
+
+<img width="605" height="381" alt="SUM of SUM of Total Attendance vs  Month" src="https://github.com/user-attachments/assets/fd8178b7-aea2-4e62-a373-9e6d35d3387c" />
+[Avg Attendance vs. Day Of Week.pdf](https://github.com/user-attachments/files/33617085/Avg.Attendance.vs.Day.Of.Week.pdf)
+[chart.pdf](https://github.com/user-attachments/files/33617084/chart.pdf)
